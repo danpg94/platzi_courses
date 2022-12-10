@@ -1,9 +1,11 @@
 '''
     Set Operations:
-        Union
-        Intersection
-        Difference
-        Symmetric Difference
+        Union                   ( | )
+        Intersection            ( & )
+        Difference              ( - )
+        Symmetric Difference    ( ^ )
+
+        Using set methods or logic operators
 
 
 '''
