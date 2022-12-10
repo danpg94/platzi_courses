@@ -1,3 +1,7 @@
+'''
+    Functions in Python
+    
+'''
 print('Hello!')
 def my_print(text):
     print(text)
